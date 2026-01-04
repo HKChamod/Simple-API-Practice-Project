@@ -1,0 +1,25 @@
+{
+
+"customerName":"A.D.Lakith Dharmasiri",
+
+"customerAddress":"No 324/A Ra De Mel Road, Colombo",
+
+"email":"lakith@gmail.com",
+
+"birthDate":"1991.02.25",
+
+"gender":"male",
+
+"age":"28",
+
+"cardHolderName":"A.D.L.Dharmasiri",
+
+"cardNumber":"102445217895",
+
+"cardExpirytDate":"12/2022",
+
+"cvv":"246",
+
+"timestamp":"2022-12-31 23:59:59"
+
+}
